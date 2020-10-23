@@ -10,6 +10,8 @@
 }
 
 .newsletter-form {
+    display: flex;
+    justify-content: center;
     max-width: 475px;
     margin: 0 auto;
 }
